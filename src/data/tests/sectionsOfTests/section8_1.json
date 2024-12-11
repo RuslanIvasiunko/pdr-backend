@@ -1,0 +1,938 @@
+{
+  "slag": "section8.1",
+  "title": "8.1 Регулювання дорожнього руху (Регульовані перехрестя)",
+  "content": [
+    {
+      "number": "8.1.1",
+      "question": "Проїжджаючи дане перехрестя, водії повинні керуватися:",
+      "answers": [
+        {"id": 1, "text": "Знаками пріоритету."},
+        {"id": 2, "text": "Сигналами світлофора."},
+        {"id": 3, "text": "Вірні обидва варіанти."}
+      ],
+      "correctAnswerId": 2,
+      "image": ""
+    },
+    {
+      "number": "8.1.2",
+      "question": "У якому напрямку Вам дозволено рух в зображеній ситуації?",
+      "answers": [
+        {"id": 1, "text": "Прямо, праворуч, ліворуч і розворот."},
+        {"id": 2, "text": "Ліворуч."},
+        {"id": 3, "text": "Ліворуч і розворот."},
+        {"id": 4, "text": "Прямо, ліворуч і розворот."}
+      ],
+      "correctAnswerId": 3,
+      "image": ""
+    },
+    {
+      "number": "8.1.3",
+      "question": "Водіям яких транспортних засобів дозволено рух у даній ситуації?",
+      "answers": [
+        {"id": 1, "text": "Водієві трамвая і червоного автомобіля."},
+        {"id": 2, "text": "Водіям усіх транспортних засобів."},
+        {"id": 3, "text": "Водіям білого і червоного автомобілів."},
+        {"id": 4, "text": "Водіям трамвая і білого автомобіля."}
+      ],
+      "correctAnswerId": 1,
+      "image": ""
+    },
+    {
+      "number": "8.1.4",
+      "question": "Чи дозволено водієві автомобіля рух у напрямку стрілки, ввімкненої в додатковій секції світлофора?",
+      "answers": [
+        {"id": 1, "text": "Заборонено."},
+        {"id": 2, "text": "Дозволено за умови, що він дасть дорогу пішоходам."},
+        {"id": 3, "text": "Дозволено за умови безперешкодного пропуску транспортних засобів, що рухаються з інших напрямків, а також пішоходів."}
+      ],
+      "correctAnswerId": 3,
+      "image": ""
+    },
+    {
+      "number": "8.1.5",
+      "question": "Чи дозволено Вам рух у даній ситуації?",
+      "answers": [
+        {"id": 1, "text": "Дозволено, але необхідно дати дорогу транспортним засобам і пішоходам."},
+        {"id": 2, "text": "Заборонено, необхідно дочекатися ввімкнення зеленого сигналу."}
+      ],
+      "correctAnswerId": 2,
+      "image": ""
+    },
+    {
+      "number": "8.1.6",
+      "question": "Чи дозволено водієві сірого автомобіля в'їхати на реверсивну смугу так, як показано на малюнку?",
+      "answers": [
+        {"id": 1, "text": "Заборонено."},
+        {"id": 2, "text": "Дозволено."}
+      ],
+      "correctAnswerId": 1,
+      "image": ""
+    },
+    {
+      "number": "8.1.7",
+      "question": "Хто з водіїв порушив Правила дорожнього руху, зупинившись на заборонний сигнал світлофора?",
+      "answers": [
+        {"id": 1, "text": "Водій легкового автомобіля."},
+        {"id": 2, "text": "Водій вантажного автомобіля."}
+      ],
+      "correctAnswerId": 1,
+      "image": ""
+    },
+    {
+      "number": "8.1.8",
+      "question": "Що означає даний сигнал регулювальника?",
+      "answers": [
+        {"id": 1, "text": "Рух заборонено транспортним засобам."},
+        {"id": 2, "text": "Рух заборонено пішоходам."},
+        {"id": 3, "text": "Рух заборонено транспортним засобам і пішоходам."}
+      ],
+      "correctAnswerId": 3,
+      "image": ""
+    },
+    {
+      "number": "8.1.9",
+      "question": "Чим повинні керуватися водії під час проїзду даного перехрестя?",
+      "answers": [
+        {"id": 1, "text": "Сигналами світлофора."},
+        {"id": 2, "text": "Знаками пріоритету."},
+        {"id": 3, "text": "Сигналами регулювальника."}
+      ],
+      "correctAnswerId": 3,
+      "image": ""
+    },
+    {
+      "number": "8.1.10",
+      "question": "Яким автомобілям дозволено рух у даній ситуації?",
+      "answers": [
+        {"id": 1, "text": "Синьому."},
+        {"id": 2, "text": "Білому."},
+        {"id": 3, "text": "Обом автомобілям."},
+        {"id": 4, "text": "Рух заборонено."}
+      ],
+      "correctAnswerId": 3,
+      "image": ""
+    },
+    {
+      "number": "8.1.11",
+      "question": "Чи дозволено в даній ситуації рух водієві автомобіля?",
+      "answers": [
+        {"id": 1, "text": "Дозволено тільки праворуч."},
+        {"id": 2, "text": "Дозволено праворуч або ліворуч."},
+        {"id": 3, "text": "Заборонено."}
+      ],
+      "correctAnswerId": 3,
+      "image": ""
+    },
+    {
+      "number": "8.1.12",
+      "question": "Чим Ви як водій повинні керуватися, якщо сигнали, які подає регулювальник, суперечать сигналам світлофора?",
+      "answers": [
+        {"id": 1, "text": "Сигналами світлофора."},
+        {"id": 2, "text": "Сигналами регулювальника."},
+        {"id": 3, "text": "Вимогами дорожніх знаків приорітету."},
+        {"id": 4, "text": "Правилами проїзду нерегульованих перехресть."}
+      ],
+      "correctAnswerId": 2,
+      "image": ""
+    },
+    {
+      "number": "8.1.13",
+      "question": "На даному перехресті водії та пішоходи повинні керуватися:",
+      "answers": [
+        {"id": 1, "text": "Сигналами світлофора."},
+        {"id": 2, "text": "Сигналами регулювальника."},
+        {"id": 3, "text": "Сигналами світлофора, якщо не зрозумілі сигнали регулювальника."}
+      ],
+      "correctAnswerId": 2,
+      "image": ""
+    },
+    {
+      "number": "8.1.14",
+      "question": "Як Ви повинні вчинити в даній ситуації?",
+      "answers": [
+        {"id": 1, "text": "Керуючись зеленим сигналом світлофора, продовжити рух через перехрестя."},
+        {"id": 2, "text": "Керуючись сигналом регулювальника, зупинитися."},
+        {"id": 3, "text": "Керуючись сигналом регулювальника і світлофора, продовжити рух."}
+      ],
+      "correctAnswerId": 2,
+      "image": ""
+    },
+    {
+      "number": "8.1.15",
+      "question": "Як повинні вчинити водії транспортних засобів у даній ситуації?",
+      "answers": [
+        {"id": 1, "text": "Керуючись сигналом регулювальника, продовжити рух."},
+        {"id": 2, "text": "Дочекавшись дозвільного сигналу світлофора, розпочати рух."},
+        {"id": 3, "text": "Керуючись сигналом регулювальника, рух повинен продовжити тільки білий автомобіль."}
+      ],
+      "correctAnswerId": 1,
+      "image": ""
+    },
+    {
+      "number": "8.1.16",
+      "question": "Як Ви повинні вчинити в даній ситуації, якщо співробітник поліції подає Вам сигнал про зупинку?",
+      "answers": [
+        {"id": 1, "text": "Виконати вимогу поліцейського, зупинившись у місці, яке він вказав."},
+        {"id": 2, "text": "Виконати вимогу поліцейського і зупинитися тільки з лівого боку дороги."}
+      ],
+      "correctAnswerId": 1,
+      "image": ""
+    },
+    {
+      "number": "8.1.17",
+      "question": "Знаки якої групи запроваджують або скасовують обмеження в русі на проїзній частині?",
+      "answers": [
+        {"id": 1, "text": "Попереджувальні знаки."},
+        {"id": 2, "text": "Знаки пріоритету."},
+        {"id": 3, "text": "Заборонні знаки."},
+        {"id": 4, "text": "Інформаційно-вказівні знаки."}
+      ],
+      "correctAnswerId": 3,
+      "image": ""
+    },
+    {
+      "number": "8.1.18",
+      "question": "Знаки якої групи вказують обов'язкові напрямки руху або дозволяють деяким учасникам рух по проїзній частині чи на окремих її ділянках, а також запроваджують або скасовують деякі обмеження?",
+      "answers": [
+        {"id": 1, "text": "Попереджувальні знаки."},
+        {"id": 2, "text": "Знаки пріоритету."},
+        {"id": 3, "text": "Наказові знаки."},
+        {"id": 4, "text": "Інформаційно-вказівні знаки."}
+      ],
+      "correctAnswerId": 3,
+      "image": ""
+    },
+    {
+      "number": "8.1.19",
+      "question": "Яких видів буває дорожня розмітка?",
+      "answers": [
+        {"id": 1, "text": "Горизонтальна."},
+        {"id": 2, "text": "Вертикальна."},
+        {"id": 3, "text": "Діагональна."},
+        {"id": 4, "text": "Горизонтальна і вертикальна."}
+      ],
+      "correctAnswerId": 4,
+      "image": ""
+    },
+    {
+      "number": "8.1.20",
+      "question": "У яких напрямках Вам дозволено рух в даній ситуації?",
+      "answers": [
+        {"id": 1, "text": "Прямо, праворуч, ліворуч і розворот."},
+        {"id": 2, "text": "Ліворуч."},
+        {"id": 3, "text": "Ліворуч і розворот."},
+        {"id": 4, "text": "Ліворуч і розворот."},
+        {"id": 5, "text": "Прямо, ліворуч і розворот."}
+      ],
+      "correctAnswerId": 5,
+      "image": ""
+    },
+    {
+      "number": "8.1.21",
+      "question": "Водіям яких транспортних засобів дозволено рух у даній ситуації?",
+      "answers": [
+        {"id": 1, "text": "Водіям усіх транспортних засобів."},
+        {"id": 2, "text": "Водіям червоного і сірого автомобілів."},
+        {"id": 3, "text": "Водіям сірого та синього автомобілів."},
+        {"id": 4, "text": "Водієві синього автомобіля."}
+      ],
+      "correctAnswerId": 4,
+      "image": ""
+    },
+    {
+      "number": "8.1.22",
+      "question": "У якому напрямку Вам дозволено рух у даній ситуації?",
+      "answers": [
+        {"id": 1, "text": "Ліворуч."},
+        {"id": 2, "text": "Ліворуч або розворот."},
+        {"id": 3, "text": "Прямо, ліворуч або розворот."}
+      ],
+      "correctAnswerId": 2,
+      "image": ""
+    },
+    {
+      "number": "8.1.23",
+      "question": "Зелений миготливий сигнал світлофора означає, що:",
+      "answers": [
+        {"id": 1, "text": "Рух заборонено."},
+        {"id": 2, "text": "Рух заборонено, крім випадків, коли для зупинки потрібно вдатися до екстреного гальмування."},
+        {"id": 3, "text": "Рух дозволено, але незабаром буде ввімкнено сигнал, що забороняє рух."}
+      ],
+      "correctAnswerId": 3,
+      "image": ""
+    },
+    {
+      "number": "8.1.24",
+      "question": "Яким способом водій може бути проінформований про перемикання зеленого сигналу світлофора?",
+      "answers": [
+        {"id": 1, "text": "Миготінням зеленого сигналу світлофора."},
+        {"id": 2, "text": "Цифровими табло."},
+        {"id": 3, "text": "Будь-яким з перелічених вище способів."}
+      ],
+      "correctAnswerId": 3,
+      "image": ""
+    },
+    {
+      "number": "8.1.25",
+      "question": "Увімкнений червоний сигнал світлофора означає, що:",
+      "answers": [
+        {"id": 1, "text": "Рух дозволено тільки праворуч за умови надання переваги в русі іншим учасникам."},
+        {"id": 2, "text": "Рух заборонено."},
+        {"id": 3, "text": "Рух заборонено тільки нерейковим транспортним засобам."}
+      ],
+      "correctAnswerId": 2,
+      "image": ""
+    },
+    {
+      "number": "8.1.26",
+      "question": "Що означають два червоні поперемінно миготливі сигнали даного світлофора?",
+      "answers": [
+        {"id": 1, "text": "Рух заборонено."},
+        {"id": 2, "text": "Рух не заборонено, але наближається поїзд, якому необхідно дати дорогу."},
+        {"id": 3, "text": "Слід бути особливо уважним на даній ділянці дороги."}
+      ],
+      "correctAnswerId": 1,
+      "image": ""
+    },
+    {
+      "number": "8.1.27",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "8.1.28",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "8.1.29",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "8.1.30",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "8.1.31",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "8.1.32",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "8.1.33",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "8.1.34",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "8.1.35",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "8.1.36",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "8.1.37",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "8.1.38",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "8.1.39",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "8.1.40",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "8.1.41",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "8.1.42",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "8.1.43",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "8.1.44",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "8.1.45",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "8.1.46",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "8.1.47",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "8.1.48",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "8.1.49",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "8.1.50",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "8.1.51",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "8.1.52",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "8.1.53",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "8.1.54",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "8.1.55",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "8.1.56",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "8.1.57",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "8.1.58",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "8.1.59",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "8.1.60",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "8.1.61",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "8.1.62",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "8.1.63",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "8.1.64",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "8.1.65",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "8.1.66",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "8.1.67",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "8.1.68",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "8.1.69",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "8.1.70",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "8.1.71",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "8.1.72",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "8.1.73",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "8.1.74",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "8.1.75",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "8.1.76",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "8.1.77",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "8.1.78",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "8.1.79",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "8.1.80",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "8.1.81",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "8.1.82",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "8.1.83",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "8.1.84",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    }
+  ]
+}
+
+

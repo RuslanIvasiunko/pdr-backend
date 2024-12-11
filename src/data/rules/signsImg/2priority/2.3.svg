@@ -1,0 +1,241 @@
+<?xml version="1.0" ?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg height="190.0006" id="svg101" inkscape:output_extension="org.inkscape.output.svg.inkscape" inkscape:version="0.46" sodipodi:docname="ua_2.3_priority-main_road.svg" sodipodi:version="0.32" version="1.0" width="190.00058" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg">
+	
+	
+	
+	
+  
+	
+	
+	
+	<sodipodi:namedview bordercolor="#666666" borderopacity="1.0" gridtolerance="10.0" guidetolerance="10.0" id="base" inkscape:current-layer="svg101" inkscape:cx="-406.02805" inkscape:cy="165.77668" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="480" inkscape:window-width="640" inkscape:zoom="0.87153703" objecttolerance="10.0" pagecolor="#ffffff" showgrid="false"/>
+	
+	
+	
+	
+  
+	
+	
+	
+	<metadata id="metadata101">
+		
+		
+		
+		
+    
+  
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				
+        
+				<dc:format>
+					image/svg+xml
+				</dc:format>
+				
+        
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				
+        
+				<dc:title>
+					 sign
+				</dc:title>
+				
+        
+				<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/"/>
+				
+        
+				<dc:creator>
+					
+            
+					<cc:Agent>
+						
+                
+						<dc:title>
+							Artem Oliynyk
+						</dc:title>
+						
+            
+					</cc:Agent>
+					
+        
+				</dc:creator>
+				
+        
+				<dc:rights>
+					
+            
+					<cc:Agent>
+						
+                
+						<dc:title>
+							Artem Oliynyk
+						</dc:title>
+						
+            
+					</cc:Agent>
+					
+        
+				</dc:rights>
+				
+        
+				<dc:identifier>
+					http://azure.km.ua/ua-vector-signs/2_Priority/ua_2.3_priority-main_road.svg
+				</dc:identifier>
+				
+        
+				<dc:language>
+					uk-UA
+				</dc:language>
+				
+        
+				<dc:date>
+					2010-04-24
+				</dc:date>
+				
+    
+			</cc:Work>
+			<cc:License rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+				
+        
+				<cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+				
+        
+				<cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+				
+        
+				<cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+				
+        
+				<cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+				
+        
+				<cc:prohibits rdf:resource="http://creativecommons.org/ns#CommercialUse"/>
+				
+        
+				<cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+				
+        
+				<cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+				
+    
+			</cc:License>
+		</rdf:RDF>
+	</metadata>
+	
+	
+	
+	
+  
+	
+	
+	
+	<defs id="defs101">
+		
+		
+		
+		
+    
+		
+		
+		
+		<inkscape:perspective id="perspective101" inkscape:persp3d-origin="372.04724 : 350.78739 : 1" inkscape:vp_x="0 : 526.18109 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="744.09448 : 526.18109 : 1" sodipodi:type="inkscape:persp3d"/>
+		
+		
+		
+		
+  
+	
+	
+	
+	</defs>
+	
+	
+	
+	
+  
+	
+	
+	
+	<g id="g3332" transform="matrix(0.7071068,0.7071068,-0.7071068,0.7071068,95.000852,-39.349223)">
+		
+		
+		
+		
+    
+		
+		
+		
+		<path class="fil0" d="M 156.11916,160.89025 L 33.855794,160.93917 C 31.073365,160.88998 29.023627,158.84024 29.072437,156.15581 L 29.072541,33.843636 C 29.02373,31.158822 31.073466,29.109087 33.855894,29.060284 L 156.11907,29.109182 C 158.85249,29.011371 160.90223,31.061109 160.90243,33.892538 L 160.90251,156.1069 C 160.90232,158.93794 158.85259,160.98768 156.11916,160.89025 L 156.11916,160.89025 z" id="_146299792" style="fill:#ffffff;fill-rule:evenodd"/>
+		
+		
+		
+		
+    
+		
+		
+		
+		<g id="g3328">
+			
+			
+			
+			
+      
+			
+			
+			
+			<path d="M 56.90625,51.96875 C 54.104782,52.069197 52.000391,54.173587 52,56.875 L 52,133.125 C 52.000195,135.82621 54.104589,137.9306 56.90625,138.03125 L 133.09375,137.96875 C 135.74533,137.91853 137.84973,135.81414 138,133.0625 L 138,56.9375 C 137.84933,54.185863 135.74494,52.081468 133.09375,52.03125 L 56.90625,51.96875 z M 57.8125,53.03125 L 132.15625,53.0625 C 134.74288,53.111498 136.7905,55.159128 136.9375,57.84375 L 136.9375,132.15625 C 136.79089,134.84087 134.74326,136.8885 132.15625,136.9375 L 57.8125,136.96875 C 55.079068,136.87056 53.031438,134.82293 53.03125,132.1875 L 53.03125,57.8125 C 53.031638,55.176883 55.079268,53.129249 57.8125,53.03125 z" id="path3256" style="fill:#000000;fill-rule:evenodd"/>
+			
+			
+			
+			
+      
+			
+			
+			
+			<path class="fil4" d="M 132.15451,136.92561 L 57.820414,136.97455 C 55.086983,136.87636 53.037245,134.82662 53.037057,132.19119 L 53.036802,57.807897 C 53.037188,55.172279 55.086923,53.122544 57.820155,53.024545 L 132.15464,53.073606 C 134.74126,53.122603 136.791,55.172341 136.938,57.856963 L 136.93787,132.14226 C 136.79126,134.82688 134.74152,136.87661 132.15451,136.92561 L 132.15451,136.92561 z" id="_147110712" style="fill:#fff500;fill-rule:evenodd"/>
+			
+			
+			
+			
+    
+		
+		
+		
+		</g>
+		
+		
+		
+		
+    
+		
+		
+		
+		<path d="M 94.9375,0 C 93.683543,8.1756696e-08 92.469617,0.49447221 91.5,1.5 L 1.5,91.5 C -0.5107621,93.438952 -0.51077062,96.41685 1.5,98.5 L 91.5,188.4375 C 93.439237,190.5201 96.448389,190.52009 98.53125,188.4375 L 188.4375,98.53125 C 190.52037,96.448097 190.52037,93.43896 188.4375,91.5 L 98.5,1.5 C 97.458568,0.49447183 96.191457,-8.1756696e-08 94.9375,0 z M 94.9375,3.6875 C 96.144688,3.6874999 97.374009,4.1585176 98.375,5.125 L 184.8125,91.625 C 186.81449,93.488662 186.81448,96.403986 184.8125,98.40625 L 98.40625,184.8125 C 96.404271,186.81421 93.520184,186.81422 91.65625,184.8125 L 5.125,98.375 C 3.1923018,96.372754 3.1923074,93.488665 5.125,91.625 L 91.625,5.125 C 92.556969,4.158518 93.730312,3.6875001 94.9375,3.6875 z" id="path3258" sodipodi:nodetypes="cccccccccccccccccccc" style="fill:#000000;fill-rule:evenodd" transform="matrix(0.7071068,-0.7071068,0.7071068,0.7071068,-39.351643,94.999847)"/>
+		
+		
+		
+		
+  
+	
+	
+	
+	</g>
+	
+	
+	
+	
+
+
+
+
+</svg>

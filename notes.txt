@@ -1,0 +1,250 @@
+import jsonfile from 'jsonfile';
+import path from 'path';
+
+
+
+async function loadSection(sectionName) {
+  // Определяем путь к файлу JSON
+  const sectionPath = path.join(__dirname, `../data/rules/sections/${sectionName}.json`);
+
+  try {
+    // Читаем файл JSON
+    const sectionData = await jsonfile.readFile(sectionPath);
+    console.log(sectionData); // Выводим данные для проверки
+    return sectionData; // Возвращаем данные
+  } catch (error) {
+    console.error(`Ошибка при чтении файла ${sectionName}:`, error);
+  }
+}
+
+// Пример загрузки нескольких секций
+async function loadSections() {
+  const sections = ['section1', 'section2', 'section3', 'section5', 'section6', 'section7', 'section8', 'section9', 'section10', 'section11', 'section12', 'section13', 'section14', 'section15', 'section16', 'section17', 'section18', 'section19', 'section20', 'section21', 'section22', 'section23', 'section24', 'section25', 'section26', 'section27', 'section28', 'section29', 'section30', 'section31', 'section32', 'section33_1', 'section33_2', 'section33_3', 'section33_4', 'section33_5', 'section33_6', 'section33_7', 'section34']; // Добавьте сюда имена всех секций
+  for (const section of sections) {
+    await loadSection(section);
+  }
+}
+
+// Вызов функции для загрузки секций
+loadSections();
+// async function loadSections() {
+
+//   const section1 = jsonfile.readFile('./data/rules/sections/section1.json');
+//   const section2 = await jsonfile.readFile(
+//     '../data/rules/sections/section2.json',
+//   );
+//   const section3 = await jsonfile.readFile(
+//     '../data/rules/sections/section3.json',
+//   );
+//   const section4 = await jsonfile.readFile(
+//     '../data/rules/sections/section4.json',
+//   );
+//   const section5 = await jsonfile.readFile(
+//     '../data/rules/sections/section5.json',
+//   );
+//   const section6 = await jsonfile.readFile(
+//     '../data/rules/sections/section6.json',
+//   );
+//   const section7 = await jsonfile.readFile(
+//     '../data/rules/sections/section7.json',
+//   );
+//   const section8 = await jsonfile.readFile(
+//     '../data/rules/sections/section8.json',
+//   );
+//   const section9 = await jsonfile.readFile(
+//     '../data/rules/sections/section9.json',
+//   );
+//   const section10 = await jsonfile.readFile(
+//     '../data/rules/sections/section10.json',
+//   );
+//   const section11 = await jsonfile.readFile(
+//     '../data/rules/sections/section11.json',
+//   );
+//   const section12 = await jsonfile.readFile(
+//     '../data/rules/sections/section12.json',
+//   );
+//   const section13 = await jsonfile.readFile(
+//     '../data/rules/sections/section13.json',
+//   );
+//   const section14 = await jsonfile.readFile(
+//     '../data/rules/sections/section14.json',
+//   );
+//   const section15 = await jsonfile.readFile(
+//     '../data/rules/sections/section15.json',
+//   );
+//   const section16 = await jsonfile.readFile(
+//     '../data/rules/sections/section16.json',
+//   );
+//   const section17 = await jsonfile.readFile(
+//     '../data/rules/sections/section17.json',
+//   );
+//   const section18 = await jsonfile.readFile(
+//     '../data/rules/sections/section18.json',
+//   );
+//   const section19 = await jsonfile.readFile(
+//     '../data/rules/sections/section19.json',
+//   );
+//   const section20 = await jsonfile.readFile(
+//     '../data/rules/sections/section20.json',
+//   );
+//   const section21 = await jsonfile.readFile(
+//     '../data/rules/sections/section21.json',
+//   );
+//   const section22 = await jsonfile.readFile(
+//     '../data/rules/sections/section22.json',
+//   );
+//   const section23 = await jsonfile.readFile(
+//     '../data/rules/sections/section23.json',
+//   );
+//   const section24 = await jsonfile.readFile(
+//     '../data/rules/sections/section24.json',
+//   );
+//   const section25 = await jsonfile.readFile(
+//     '../data/rules/sections/section25.json',
+//   );
+//   const section26 = await jsonfile.readFile(
+//     '../data/rules/sections/section26.json',
+//   );
+//   const section27 = await jsonfile.readFile(
+//     '../data/rules/sections/section27.json',
+//   );
+//   const section28 = await jsonfile.readFile(
+//     '../data/rules/sections/section28.json',
+//   );
+//   const section29 = await jsonfile.readFile(
+//     '../data/rules/sections/section29.json',
+//   );
+//   const section30 = await jsonfile.readFile(
+//     '../data/rules/sections/section30.json',
+//   );
+//   const section31 = await jsonfile.readFile(
+//     '../data/rules/sections/section31.json',
+//   );
+//   const section32 = await jsonfile.readFile(
+//     '../data/rules/sections/section32.json',
+//   );
+//   const section33_1 = await jsonfile.readFile(
+//     '../data/rules/sections/section33_1.json',
+//   );
+//   const section33_2 = await jsonfile.readFile(
+//     '../data/rules/sections/section33_2.json',
+//   );
+//   const section33_3 = await jsonfile.readFile(
+//     '../data/rules/sections/section33_3.json',
+//   );
+//   const section33_4 = await jsonfile.readFile(
+//     '../data/rules/sections/section33_4.json',
+//   );
+//   const section33_5 = await jsonfile.readFile(
+//     '../data/rules/sections/section33_5.json',
+//   );
+//   const section33_6 = await jsonfile.readFile(
+//     '../data/rules/sections/section33_6.json',
+//   );
+//   const section33_7 = await jsonfile.readFile(
+//     '../data/rules/sections/section33_7.json',
+//   );
+//   const section34 = await jsonfile.readFile(
+//     '../data/rules/sections/section34.json',
+//   );
+// }
+
+// import section1 from '../data/rules/sections/section1.json' ;
+// import section2 from '../data/rules/sections/section2.json';
+// import section3 from '../data/rules/sections/section3.json';
+// import section4 from '../data/rules/sections/section4.json';
+// import section5 from '../data/rules/sections/section5.json';
+// import section6 from '../data/rules/sections/section6.json';
+// import section7 from '../data/rules/sections/section7.json';
+// import section8 from '../data/rules/sections/section8.json';
+// import section9 from '../data/rules/sections/section9.json';
+// import section10 from '../data/rules/sections/section10.json';
+// import section11 from '../data/rules/sections/section11.json';
+// import section12 from '../data/rules/sections/section12.json';
+// import section13 from '../data/rules/sections/section13.json';
+// import section14 from '../data/rules/sections/section14.json';
+// import section15 from '../data/rules/sections/section15.json';
+// import section16 from '../data/rules/sections/section16.json';
+// import section17 from '../data/rules/sections/section17.json';
+// import section18 from '../data/rules/sections/section18.json';
+// import section19 from '../data/rules/sections/section19.json';
+// import section20 from '../data/rules/sections/section20.json';
+// import section21 from '../data/rules/sections/section21.json';
+// import section22 from '../data/rules/sections/section22.json';
+// import section23 from '../data/rules/sections/section23.json';
+// import section24 from '../data/rules/sections/section24.json';
+// import section25 from '../data/rules/sections/section25.json';
+// import section26 from '../data/rules/sections/section26.json';
+// import section27 from '../data/rules/sections/section27.json';
+// import section28 from '../data/rules/sections/section28.json';
+// import section29 from '../data/rules/sections/section29.json';
+// import section30 from '../data/rules/sections/section30.json';
+// import section31 from '../data/rules/sections/section31.json';
+// import section32 from '../data/rules/sections/section32.json';
+// import section33_1 from '../data/rules/sections/section33_1.json';
+// import section33_2 from '../data/rules/sections/section33_2.json';
+// import section33_3 from '../data/rules/sections/section33_3.json';
+// import section33_4 from '../data/rules/sections/section33_4.json';
+// import section33_5 from '../data/rules/sections/section33_5.json';
+// import section33_6 from '../data/rules/sections/section33_6.json';
+// import section33_7 from '../data/rules/sections/section33_7.json';
+// import section34 from '../data/rules/sections/section34.json';
+
+const section33 = {
+  id: 'dpeqlMwq9qRCH2PU-CEss',
+  slag: 'section33',
+  title: 'Дорожні знаки',
+  allSigns: [
+    section33_1,
+    section33_2,
+    // section33_3,
+    // section33_4,
+    // section33_5,
+    // section33_6,
+    // section33_7
+  ],
+};
+
+export const sections = [
+  section1,
+  section2,
+  section3,
+  section4,
+  section5,
+  section6,
+  section7,
+  section8,
+  section9,
+  section10,
+  section11,
+  section12,
+  section13,
+  section14,
+  section15,
+  section16,
+  section17,
+  section18,
+  section19,
+  section20,
+  section21,
+  section22,
+  section23,
+  section24,
+  section25,
+  section26,
+  section27,
+  section28,
+  section29,
+  section30,
+  section31,
+  section32,
+  section33,
+  section33_1,
+  section33_2,
+  section33_3,
+  section33_4,
+  section33_5,
+  section33_6,
+  section33_7,
+  section34,
+];

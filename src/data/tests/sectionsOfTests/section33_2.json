@@ -1,0 +1,282 @@
+{
+  "slag": "section33_2",
+  "title": "33.2 Знаки пріоритету",
+  "content": [
+    {
+      "number": "33.2.1",
+      "question": "Зображений дорожній знак діє:",
+      "answers": [
+        {"id": 1, "text": "На регульованому перехресті."},
+        {"id": 2, "text": "На нерегульованому перехресті."},
+        {"id": 3, "text": "На регульованому і нерегульованому перехрестях."}
+      ],
+      "correctAnswerId": 2,
+      "image": ""
+    },
+    {
+      "number": "33.2.2",
+      "question": "Водій правильно виконав вимогу даного дорожнього знака, встановленого на нерегульованому перехресті, якщо:",
+      "answers": [
+        {"id": 1, "text": "Обов'язково зупинився перед розміткою «Стоп-лінія» і дав дорогу транспортним засобам, що рухаються по головній дорозі."},
+        {"id": 2, "text": "Знизив швидкість або зупинився, щоб дати дорогу транспортним засобам, що рухаються по головній дорозі."},
+        {"id": 3, "text": "Проїхав, не зупинившись, не даючи дорогу іншим транспортним засобам."}
+      ],
+      "correctAnswerId": 2,
+      "image": ""
+    },
+    {
+      "number": "33.2.3",
+      "question": "Чи є обов'язковою зупинка для виконання вимоги даного дорожнього знака?",
+      "answers": [
+        {"id": 1, "text": "Є."},
+        {"id": 2, "text": "Не є."}
+      ],
+      "correctAnswerId": 2,
+      "image": ""
+    },
+    {
+      "number": "33.2.4",
+      "question": "Який дорожній знак встановлено на дорозі, що перетинається, якщо для вас встановлено даний знак?",
+      "answers": [
+        {"id": 1, "text": "Знак 1."},
+        {"id": 2, "text": "Знак 2."},
+        {"id": 3, "text": "Знак 3."},
+        {"id": 4, "text": "Знак 4."}
+      ],
+      "correctAnswerId": 2,
+      "image": ""
+    },
+    {
+      "number": "33.2.5",
+      "question": "Який дорожній знак встановлено на найближчому перехресті після знаку дати дорогу з зазначеною табличкою?",
+      "answers": [
+        {"id": 1, "text": "Знак 1."},
+        {"id": 2, "text": "Знак 2."},
+        {"id": 3, "text": "Знак 3."}
+      ],
+      "correctAnswerId": 1,
+      "image": ""
+    },
+    {
+      "number": "33.2.6",
+      "question": "Вимога якого із зображених знаків зобов'язує водія транспортного засобу обов'язково зупинитися на нерегульованому перехресті або залізничному переїзді?",
+      "answers": [
+        {"id": 1, "text": "Знак 1."},
+        {"id": 2, "text": "Знак 2."},
+        {"id": 3, "text": "Знак 3."},
+        {"id": 4, "text": "Усі зображені дорожні знаки."},
+        {"id": 5, "text": "Знаки 1 і 2."}
+      ],
+      "correctAnswerId": 1,
+      "image": ""
+    },
+    {
+      "number": "33.2.7",
+      "question": "Який дорожній знак встановлено на найближчому перехресті після знаків дати дорогу разом з табличкою?",
+      "answers": [
+        {"id": 1, "text": "Знак 1."},
+        {"id": 2, "text": "Знак 2."},
+        {"id": 3, "text": "Знак 3."}
+      ],
+      "correctAnswerId": 2,
+      "image": ""
+    },
+    {
+      "number": "33.2.8",
+      "question": "Чи є обов'язковою зупинка для виконання вимог даного знака?",
+      "answers": [
+        {"id": 1, "text": "Так."},
+        {"id": 2, "text": "Ні."}
+      ],
+      "correctAnswerId": 1,
+      "image": ""
+    },
+    {
+      "number": "33.2.9",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "33.2.10",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "33.2.11",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "33.2.12",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "33.2.13",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "33.2.14",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "33.2.15",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "33.2.16",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "33.2.17",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "33.2.18",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "33.2.19",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "33.2.20",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "33.2.21",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "33.2.22",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "33.2.23",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "33.2.24",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "33.2.25",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    }
+  ]
+}

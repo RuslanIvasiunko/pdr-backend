@@ -1,0 +1,46 @@
+// {
+//   "parserOptions": {
+//     "ecmaVersion": 2024,
+//     "sourceType": "module"
+//   },
+//   "rules": {
+//     "no-unused-vars": "off", // убирает лишние предупреждения, если не используется какой-то импорт
+//     "import/extensions": [
+//       "error",
+//       "ignorePackages",
+//       {
+//         "json": "always"
+//       }
+//     ]
+//   },
+//   "env": {
+//     "es2024": true // поддержка современных стандартов JS
+//   }
+// }
+
+{
+  "parserOptions": {
+    "ecmaVersion": 2024,
+    "sourceType": "module"
+  },
+  "rules": {
+    "no-unused-vars": "off",
+    "import/extensions": "off"
+  },
+  // "env": {
+  //   "es2024": true
+  // },
+  "plugins": ["import"],
+  "settings": {
+    "import/resolver": {
+      "node": {
+        "extensions": [".js", ".json"]
+      }
+    }
+  },
+  "env": {
+    "browser": true,
+    "es2021": true,
+    "node": true // добавьте эту строку
+  }
+}

@@ -1,0 +1,1207 @@
+{
+  "slag": "section16_2",
+  "title": "16.2 Проїзд перехресть (Нерегульовані перехрестя)",
+  "content": [
+    {
+      "number": "16.2.1",
+      "question": "Яке перехрестя вважається нерегульованим?",
+      "answers": [
+        {"id": 1, "text": "1. Перехрестя, де світлофор вимкнений або працює в режимі миготіння жовтого сигналу."},
+        {"id": 2, "text": "2. Перехрестя, де немає світлофорів і відсутній регулювальник."},
+        {"id": 3, "text": "3. Перехрестя, де черговість проїзду регулюється тільки дорожніми знаками пріоритету."},
+        {"id": 4, "text": "4. Відповіді 1 і 2."},
+        {"id": 5, "text": "5. Відповіді 1, 2 і 3."}
+      ],
+      "correctAnswerId": 5,
+      "image": ""
+    },
+    {
+      "number": "16.2.2",
+      "question": "На якому малюнку показано нерегульоване перехрестя (на малюнках 2 і 3 миготливий жовтий)?",
+      "answers": [
+        {"id": 1, "text": "На першому."},
+        {"id": 2, "text": "На другому."},
+        {"id": 3, "text": "На третьому."},
+        {"id": 4, "text": "На всіх малюнках."}
+      ],
+      "correctAnswerId": 2,
+      "image": ""
+    },
+    {
+      "number": "16.2.3",
+      "question": "Як водій білого автомобіля, що наближається до перехрестя, повинен проїхати дане перехрестя?",
+      "answers": [
+        {"id": 1, "text": "Зупинитися перед дорожньою розміткою «Стоп-лінія» і далі продовжити рух, не даючи нікому дорогу."},
+        {"id": 2, "text": "Зупинитися перед дорожньою розміткою «Стоп-лінія», виконавши вимогу знака «Проїзд без зупинки заборонено»."},
+        {"id": 3, "text": "Проїхати перехрестя без зупинки."}
+      ],
+      "correctAnswerId": 2,
+      "image": ""
+    },
+    {
+      "number": "16.2.4",
+      "question": "Чи повинен водій автомобіля дати дорогу велосипедисту в даній ситуації?",
+      "answers": [
+        {"id": 1, "text": "Не повинен, оскільки їде по головній дорозі."},
+        {"id": 2, "text": "Не повинен, тому що велосипедист рухається по велосипедній доріжці."},
+        {"id": 3, "text": "Повинен дати дорогу."}
+      ],
+      "correctAnswerId": 3,
+      "image": ""
+    },
+    {
+      "number": "16.2.5",
+      "question": "Чи повинен водій білого автомобіля дати дорогу пішоходам, які переходять проїзну частину на перехресті по лінії продовження тротуару?",
+      "answers": [
+        {"id": 1, "text": "Не повинен."},
+        {"id": 2, "text": "Повинен завжди."}
+      ],
+      "correctAnswerId": 2,
+      "image": ""
+    },
+    {
+      "number": "16.2.6",
+      "question": "Хто з водіїв повинен дати дорогу пішоходам?",
+      "answers": [
+        {"id": 1, "text": "Обидва водії."},
+        {"id": 2, "text": "Тільки водій білого автомобіля."},
+        {"id": 3, "text": "Тільки водій синього автомобіля."}
+      ],
+      "correctAnswerId": 1,
+      "image": ""
+    },
+    {
+      "number": "16.2.7",
+      "question": "Чи повинен водій білого автомобіля дати дорогу пішоходам, які переходять проїзну частину на перехресті по лінії продовження тротуару?",
+      "answers": [
+        {"id": 1, "text": "Не повинен."},
+        {"id": 2, "text": "Повинен завжди."}
+      ],
+      "correctAnswerId": 2,
+      "image": ""
+    },
+    {
+      "number": "16.2.8",
+      "question": "На якому з місць водій повинен зупинити свій транспортний засіб у разі зупинки для виконання вимоги дати дорогу?",
+      "answers": [
+        {"id": 1, "text": "На місці А."},
+        {"id": 2, "text": "На місці Б."},
+        {"id": 3, "text": "На місці А чи Б."}
+      ],
+      "correctAnswerId": 1,
+      "image": ""
+    },
+    {
+      "number": "16.2.9",
+      "question": "Чи може водій білого автомобіля виїхати на перехрестя в даній ситуації?",
+      "answers": [
+        {"id": 1, "text": "Може, тому що перебуває на головній дорозі."},
+        {"id": 2, "text": "Не може, тому що, зупинившись, створить перешкоду для руху іншим транспортним засобам."},
+        {"id": 3, "text": "Може, тому що рухається прямо."}
+      ],
+      "correctAnswerId": 2,
+      "image": ""
+    },
+    {
+      "number": "16.2.10",
+      "question": "Яка черговість проїзду транспортних засобів на даному перехресті?",
+      "answers": [
+        {"id": 1, "text": "Трамвай, автомобіль."},
+        {"id": 2, "text": "Автомобіль, трамвай."}
+      ],
+      "correctAnswerId": 2,
+      "image": ""
+    },
+    {
+      "number": "16.2.11",
+      "question": "Яка черговість проїзду на даному перехресті?",
+      "answers": [
+        {"id": 1, "text": "Велосипедист, трамвай."},
+        {"id": 2, "text": "Трамвай, велосипедист."},
+        {"id": 3, "text": "Залежить від швидкості транспортних засобів."}
+      ],
+      "correctAnswerId": 1,
+      "image": ""
+    },
+    {
+      "number": "16.2.12",
+      "question": "Білий автомобіль проїде дане перехрестя:",
+      "answers": [
+        {"id": 1, "text": "Першим."},
+        {"id": 2, "text": "Другим."},
+        {"id": 3, "text": "Третім."}
+      ],
+      "correctAnswerId": 1,
+      "image": ""
+    },
+    {
+      "number": "16.2.13",
+      "question": "Яка черговість проїзду даного перехрестя?",
+      "answers": [
+        {"id": 1, "text": "Зелений, сірий автомобіль."},
+        {"id": 2, "text": "Сірий, зелений автомобіль."}
+      ],
+      "correctAnswerId": 2,
+      "image": ""
+    },
+    {
+      "number": "16.2.14",
+      "question": "Який транспортний засіб проїде дане перехрестя другим?",
+      "answers": [
+        {"id": 1, "text": "Червоний автомобіль."},
+        {"id": 2, "text": "Білий автомобіль."}
+      ],
+      "correctAnswerId": 1,
+      "image": ""
+    },
+    {
+      "number": "16.2.15",
+      "question": "Як Ви повинні проїхати дане перехрестя?",
+      "answers": [
+        {"id": 1, "text": "Дати дорогу фіолетовому автомобілю."},
+        {"id": 2, "text": "Проїхати першим, не даючи дорогу фіолетовому автомобілю."}
+      ],
+      "correctAnswerId": 1,
+      "image": ""
+    },
+    {
+      "number": "16.2.16",
+      "question": "Ви проїдете перехрестя:",
+      "answers": [
+        {"id": 1, "text": "Першим."},
+        {"id": 2, "text": "Другим."},
+        {"id": 3, "text": "Третім."}
+      ],
+      "correctAnswerId": 2,
+      "image": ""
+    },
+    {
+      "number": "16.2.17",
+      "question": "На даному перехресті водій коричневого автомобіля повинен:",
+      "answers": [
+        {"id": 1, "text": "Проїхати перехрестя першим."},
+        {"id": 2, "text": "Дати дорогу всім транспортним засобам, що рухаються по дорозі, на яку він в'їжджає."}
+      ],
+      "correctAnswerId": 2,
+      "image": ""
+    },
+    {
+      "number": "16.2.18",
+      "question": "Як повинен вчинити водій синього автомобіля в даній ситуації?",
+      "answers": [
+        {"id": 1, "text": "Не даючи дорогу трактору, проїхати першим."},
+        {"id": 2, "text": "Дати дорогу трактору і проїхати другим."}
+      ],
+      "correctAnswerId": 1,
+      "image": ""
+    },
+    {
+      "number": "16.2.19",
+      "question": "Черговість проїзду даного перехрестя:",
+      "answers": [
+        {"id": 1, "text": "Синій автомобіль, зелений автомобіль, трамвай."},
+        {"id": 2, "text": "Трамвай, синій автомобіль, зелений автомобіль."},
+        {"id": 3, "text": "Трамвай і зелений автомобіль, синій автомобіль."},
+        {"id": 4, "text": "Синій автомобіль, трамвай, зелений автомобіль."}
+      ],
+      "correctAnswerId": 4,
+      "image": ""
+    },
+    {
+      "number": "16.2.20",
+      "question": "Під час руху прямо на даному перехресті Ви повинні:",
+      "answers": [
+        {"id": 1, "text": "Проїхати перехрестя першим, не даючи дорогу трамваю."},
+        {"id": 2, "text": "Проїхати другим, давши дорогу трамваю."}
+      ],
+      "correctAnswerId": 2,
+      "image": ""
+    },
+    {
+      "number": "16.2.21",
+      "question": "На даному перехресті Ви повинні:",
+      "answers": [
+        {"id": 1, "text": "Дати дорогу трамваю."},
+        {"id": 2, "text": "Проїхати першим, оскільки маєте перевагу в русі."}
+      ],
+      "correctAnswerId": 1,
+      "image": ""
+    },
+    {
+      "number": "16.2.22",
+      "question": "Який транспортний засіб проїде перехрестя останнім?",
+      "answers": [
+        {"id": 1, "text": "Трамвай."},
+        {"id": 2, "text": "Жовтий автомобіль."},
+        {"id": 3, "text": "Синій автомобіль."},
+        {"id": 4, "text": "Чорний автомобіль."},
+        {"id": 5, "text": "Білий автомобіль."}
+      ],
+      "correctAnswerId": 2,
+      "image": ""
+    },
+    {
+      "number": "16.2.23",
+      "question": "Яка черговість проїзду даного перехрестя?",
+      "answers": [
+        {"id": 1, "text": "Трамвай 1, трамвай 2, червоний, фіолетовий, зелений автомобілі."},
+        {"id": 2, "text": "Трамвай 2, трамвай 1, червоний, зелений, фіолетовий автомобілі."},
+        {"id": 3, "text": "Трамвай 2, трамвай 1, фіолетовий, червоний, зелений автомобілі."},
+        {"id": 4, "text": "Трамвай 2, червоний автомобіль, трамвай 1, фіолетовий, зелений автомобілі."}
+      ],
+      "correctAnswerId": 2,
+      "image": ""
+    },
+    {
+      "number": "16.2.24",
+      "question": "Який транспортний засіб проїде перехрестя останнім?",
+      "answers": [
+        {"id": 1, "text": "Жовтий автомобіль."},
+        {"id": 2, "text": "Сірий автомобіль."},
+        {"id": 3, "text": "Зелений автомобіль."},
+        {"id": 4, "text": "Білий автомобіль."}
+      ],
+      "correctAnswerId": 2,
+      "image": ""
+    },
+    {
+      "number": "16.2.25",
+      "question": "Який транспортний засіб проїде перехрестя третім?",
+      "answers": [
+        {"id": 1, "text": "Трамвай."},
+        {"id": 2, "text": "Синій автомобіль."},
+        {"id": 3, "text": "Чорний автомобіль."},
+        {"id": 4, "text": "Білий автомобіль."}
+      ],
+      "correctAnswerId": 4,
+      "image": ""
+    },
+    {
+      "number": "16.2.26",
+      "question": "Яка черговість проїзду автомобілів на даному перехресті?",
+      "answers": [
+        {"id": 1, "text": "Синій, білий, жовтий, зелений."},
+        {"id": 2, "text": "Жовтий, зелений, білий, синій."},
+        {"id": 3, "text": "Білий, синій, жовтий, зелений."},
+        {"id": 4, "text": "Білий, зелений, синій, жовтий."}
+      ],
+      "correctAnswerId": 3,
+      "image": ""
+    },
+    {
+      "number": "16.2.27",
+      "question": "На даному перехресті, повертаючи ліворуч, необхідно:",
+      "answers": [
+        {"id": 1, "text": "Дати дорогу всім автомобілям."},
+        {"id": 2, "text": "Дати дорогу тільки зустрічному автомобілю."},
+        {"id": 3, "text": "Проїхати перехрестя першим."}
+      ],
+      "correctAnswerId": 2,
+      "image": ""
+    },
+    {
+      "number": "16.2.28",
+      "question": "Повертаючи ліворуч на даному перехресті, Ви повинні:",
+      "answers": [
+        {"id": 1, "text": "Проїхати перехрестя першим."},
+        {"id": 2, "text": "Дати дорогу тільки велосипедистові і проїхати перехрестя другим."},
+        {"id": 3, "text": "Проїхати перехрестя останнім."}
+      ],
+      "correctAnswerId": 2,
+      "image": ""
+    },
+    {
+      "number": "16.2.29",
+      "question": "Яка черговість проїзду транспортних засобів на даному перехресті?",
+      "answers": [
+        {"id": 1, "text": "Білий, синій автомобілі, велосипед, червоний автомобіль."},
+        {"id": 2, "text": "Білий, червоний автомобілі, велосипед, синій автомобіль."},
+        {"id": 3, "text": "Білий, червоний, синій автомобілі, велосипед."}
+      ],
+      "correctAnswerId": 2,
+      "image": ""
+    },
+    {
+      "number": "16.2.30",
+      "question": "Яка черговість проїзду транспортних засобів на даному перехресті?",
+      "answers": [
+        {"id": 1, "text": "Легковий автомобіль, трамвай, мотоцикл."},
+        {"id": 2, "text": "Мотоцикл, трамвай, легковий автомобіль."},
+        {"id": 3, "text": "Трамвай, мотоцикл, легковий автомобіль."},
+        {"id": 4, "text": "Трамвай, легковий автомобіль, мотоцикл."}
+      ],
+      "correctAnswerId": 3,
+      "image": ""
+    },
+    {
+      "number": "16.2.31",
+      "question": "Як Ви проїдете дане перехрестя?",
+      "answers": [
+        {"id": 1, "text": "Першим, нікому не даючи дорогу."},
+        {"id": 2, "text": "Останнім, давши дорогу червоному і синьому автомобілям."},
+        {"id": 3, "text": "Другим, давши дорогу тільки червоному автомобілю."}
+      ],
+      "correctAnswerId": 3,
+      "image": ""
+    },
+    {
+      "number": "16.2.32",
+      "question": "Яка черговість проїзду транспортних засобів на даному перехресті?",
+      "answers": [
+        {"id": 1, "text": "Синій, жовтий, фіолетовий."},
+        {"id": 2, "text": "Жовтий, синій, фіолетовий."},
+        {"id": 3, "text": "Жовтий, фіолетовий, синій."},
+        {"id": 4, "text": "Фіолетовий, жовтий, синій."}
+      ],
+      "correctAnswerId": 2,
+      "image": ""
+    },
+    {
+      "number": "16.2.33",
+      "question": "Як велосипедист, що повертає ліворуч, проїде дане перехрестя?",
+      "answers": [
+        {"id": 1, "text": "Проїде першим."},
+        {"id": 2, "text": "Проїде, давши дорогу автомобілю."},
+        {"id": 3, "text": "Велосипедисту заборонено повертати наліво в даній ситуації."}
+      ],
+      "correctAnswerId": 2,
+      "image": ""
+    },
+    {
+      "number": "16.2.34",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.35",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.36",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.37",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.38",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.39",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.40",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.41",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.42",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.43",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.44",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.45",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.46",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.47",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.48",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.49",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.50",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.51",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.52",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.53",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.54",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.55",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.56",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.57",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.58",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.59",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.60",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.61",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.62",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.63",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.64",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.65",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.66",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.67",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.68",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.69",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.70",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.71",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.72",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.73",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.74",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.75",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.76",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.77",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.78",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.79",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.80",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.81",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.82",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.83",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.84",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.85",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.86",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.87",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.88",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.89",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.90",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.91",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.92",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.93",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.94",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.95",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.96",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.97",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.98",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.99",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.100",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.101",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.102",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.103",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.104",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.105",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.106",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.107",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.108",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    },
+    {
+      "number": "16.2.109",
+      "question": "",
+      "answers": [
+        {"id": 1, "text": ""},
+        {"id": 2, "text": ""},
+        {"id": 3, "text": ""}
+      ],
+      "correctAnswerId": "",
+      "image": ""
+    }
+  ]
+}
