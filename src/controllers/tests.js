@@ -47,13 +47,16 @@ export const sectionDefaultTestsController = (req,res) => {
 
 export const sectionRandomTestsController = (req, res) => {
     res.set('Cache-Control', 'no-store, no-cache, must-revalidate, proxy-revalidate');
+    res.set('Pragma', 'no-cache');
+    res.set('Expires', '0');
 
   const randomItems = (array) => {
-    for (let i = array.length - 1; i > 0; i--) {
+    const copiedArray = [...array];
+    for (let i = copiedArray.length - 1; i > 0; i--) {
       const randomIndex = Math.floor(Math.random() * (i + 1));
-      [array[i], array[randomIndex]] = [array[randomIndex], array[i]];
+      [copiedArray[i], copiedArray[randomIndex]] = [copiedArray[randomIndex], copiedArray[i]];
     }
-    return array;
+    return copiedArray;
   };
 
   try{
