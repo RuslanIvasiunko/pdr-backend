@@ -6,26 +6,26 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const sectionsDir = path.join(__dirname, '../data/tests/sectionsOfTests');
-const typesDir = path.join(__dirname, '../data/tests')
+const typesDir = path.join(__dirname, '../data/tests');
 
-const readSectionFile = (fileName) => {
+const readSectionFile = fileName => {
   const filePath = path.join(sectionsDir, fileName);
   try {
     const data = fs.readFileSync(filePath, 'utf-8');
     return JSON.parse(data);
   } catch (err) {
-    console.error(`Ошибка при чтении или парсинге файла ${fileName}:`, err);
+    console.error(`Помилка при читанні або парсингу файлу ${fileName}:`, err);
     return null;
   }
 };
 
-const readTypesFile = (fileName) => {
+const readTypesFile = fileName => {
   const filePath = path.join(typesDir, fileName);
   try {
     const data = fs.readFileSync(filePath, 'utf-8');
     return JSON.parse(data);
   } catch (err) {
-    console.error(`Ошибка при чтении или парсинге файла ${fileName}:`, err);
+    console.error(`Помилка при читанні або парсингу файлу ${fileName}:`, err);
     return null;
   }
 };
@@ -37,8 +37,8 @@ const section4 = readSectionFile('section4.json');
 const section5 = readSectionFile('section5.json');
 const section6 = readSectionFile('section6.json');
 const section7 = readSectionFile('section7.json');
-const section8_1= readSectionFile('section8_1.json');
-const section8_2= readSectionFile('section8_2.json');
+const section8_1 = readSectionFile('section8_1.json');
+const section8_2 = readSectionFile('section8_2.json');
 const section9 = readSectionFile('section9.json');
 const section10 = readSectionFile('section10.json');
 const section11 = readSectionFile('section11.json');
@@ -141,7 +141,7 @@ export const sectionsOfTests = [
   section44,
   section45,
   section46,
-  section47
+  section47,
 ];
 
 export const typesOfTests = readTypesFile('types.json');

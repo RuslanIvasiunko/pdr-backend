@@ -1,4 +1,8 @@
-import { sectionContentService, sectionPointOfRulesService, sectionsService } from '../services/rules.js';
+import {
+  sectionContentService,
+  sectionPointOfRulesService,
+  sectionsService,
+} from '../services/rules.js';
 
 export const sectionsTitlesController = (req, res) => {
   try {
@@ -16,6 +20,8 @@ export const sectionsTitlesController = (req, res) => {
 };
 
 export const sectionContentController = (req, res) => {
+  // console.log(req.params);
+
   try {
     const section = sectionContentService(req, res);
 

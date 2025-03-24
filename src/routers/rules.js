@@ -1,4 +1,6 @@
 import { Router } from 'express';
+
+
 import {
   pointOfRulesController,
   sectionContentController,
@@ -6,6 +8,7 @@ import {
 } from '../controllers/rules.js';
 
 const rulesRouter = Router();
+
 
 rulesRouter.get('/sections-titles', sectionsTitlesController);
 rulesRouter.get('/:sectionSlag', sectionContentController);

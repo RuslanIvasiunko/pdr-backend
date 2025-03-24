@@ -27,4 +27,3 @@ export const sectionPointOfRulesService = (req, res) => {
 
   return data;
 };
-

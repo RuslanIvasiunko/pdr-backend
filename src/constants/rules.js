@@ -7,13 +7,13 @@ const __dirname = path.dirname(__filename);
 
 const sectionsDir = path.join(__dirname, '../data/rules/sectionsOfRules');
 
-const readSectionFile = (fileName) => {
+const readSectionFile = fileName => {
   const filePath = path.join(sectionsDir, fileName);
   try {
     const data = fs.readFileSync(filePath, 'utf-8');
     return JSON.parse(data);
   } catch (err) {
-    console.error(`Ошибка при чтении или парсинге файла ${fileName}:`, err);
+    console.error(`Помилка при читанні або парсингу файлу ${fileName}:`, err);
     return null;
   }
 };
@@ -71,7 +71,7 @@ const section33 = {
     section33_5,
     section33_6,
     section33_7,
-  ]
+  ],
 };
 
 export const sections = [
@@ -117,4 +117,3 @@ export const sections = [
   section33_7,
   section34,
 ];
-
